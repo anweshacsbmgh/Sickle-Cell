@@ -1,0 +1,3 @@
+clear 
+close all
+sol = pdepe(m,pdefun,icfun,bcfun,xmesh,tspan);
