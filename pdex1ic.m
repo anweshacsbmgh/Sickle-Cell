@@ -1,2 +1,2 @@
-function u0 = pdex1ic(x)
-u0 = 0;
+function c0 = pdex1ic(x)
+c0 = 1;
