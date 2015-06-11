@@ -16,9 +16,9 @@ title('Numerical solution computed with 20 mesh points.')
 xlabel('Distance x')
 ylabel('Time t')
 colorbar
-% % % A solution profile can also be illuminating.
+% % A solution profile can also be illuminating.
 % figure
-% plot(x,c(end,:))
+% plot(x,conc(end,:))
 % title('Solution at t = t_{end}')
 % xlabel('Distance x')
 % ylabel('c(x,t_{end})')
